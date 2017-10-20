@@ -12,5 +12,5 @@ An ASP.NET application using MVC framework.
 - Custom Validation
 - Client-side Validation
 - Anti-forgery Tokens
-- Restful API using ASP.NET Web api framework
+- Restful API using ASP.NET Web API framework
 - API calls using jQuery Ajax
